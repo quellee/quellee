@@ -1,6 +1,6 @@
 # hallo,
 
-discord: `elia#0544`
+discord: `eliaaa`
 twitch: `quueelle`
 
 
