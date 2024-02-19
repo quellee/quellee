@@ -1,1 +1,1 @@
-discord `eliaaaa`
+`discord.gg/kenso`
