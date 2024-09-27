@@ -1,1 +1,1 @@
-`discord.gg/kenso`
+🪐 https://store.para.ac
