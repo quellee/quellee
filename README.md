@@ -8,11 +8,11 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.gg/mullencord">
-    <img src="https://discord.c99.nl/widget/theme-1/727599616043909190.png" alt="Discord" />
+  <a href="https://discord.gg/paraselling">
+    <img src="https://discord.c99.nl/widget/theme-1/1267840515114799105" alt="Discord" />
   </a>
     <p align="center">  
-      <img src="https://komarev.com/ghpvc/?username=Hunter-Matata">
+      <img src="https://komarev.com/ghpvc/?username=quellee">
     </p>
 </div>
 
@@ -51,10 +51,7 @@
 
 ## <div align="center">📊 GitHub Stats:</div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter-Matata&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quellee&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
 </div>
 
-## <div align="center">🗿 Language Statistics:</div>
-<div align="center">
-  <img src="https://wakatime.com/share/@018e6f7c-0c98-4886-aa34-6bbc85410256/69fe98d6-fae6-4430-8e57-ac89ab1a8d8b.svg" alt="Language Statistics" />
-</div>
+
