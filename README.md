@@ -1,7 +1,7 @@
 ##
 <div align="center">
   <p align="center">
-    <a><img src="https://readme-typing-svg.herokuapp.com?color=770087&size=25&center=true&lines=owner+@+Para Selling - Software Solutions;para.ac"></a>
+    <a><img src="https://readme-typing-svg.herokuapp.com?color=770087&size=25&center=true&lines=owner+@+Para+Selling+-+Software+Solutions;para.ac"></a>
   </p>
 </div>
 
