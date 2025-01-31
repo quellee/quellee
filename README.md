@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://discord.gg/paraselling">
-    <img src="https://discord.c99.nl/widget/theme-1/1267840515114799105" alt="Discord" />
+    <img src="https://discord.c99.nl/widget/theme-5/1267840515114799105.png" alt="Discord" />
   </a>
 </div>
 
