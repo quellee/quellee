@@ -1,9 +1,3 @@
-##
-<div align="center">
-  <p align="center">
-    <a><img src="https://readme-typing-svg.herokuapp.com?color=770087&size=25&center=true&lines=dev+? "></a>
-  </p>
-</div>
 
 ##
 <div align="center">
