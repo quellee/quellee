@@ -1,4 +1,4 @@
-Developer, Editor and Designer
+Full-Stack Developer & UI/UX Designer
 -------------------------
 ### Skills  
 <p align="left">
